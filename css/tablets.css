@@ -11,5 +11,20 @@
         display: block;
     }
     
+    /* section1 */
+    .section_first {
+        padding-inline: 14px;
+        height: 431px;
+    }
+
+    .title_section_first {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .text_section_first {
+        font-size: 14px;
+        line-height: 22px;
+    }
      }
     

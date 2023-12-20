@@ -3,13 +3,21 @@
    .header{
    padding: 6px 92px 11px 92px;
    }
-
+ /* section1 */
+ .section_first {
+    padding-inline: 92px;
+}
 }
 
 @media (max-width: 835px){
     .header{
         padding: 6px 67px;
     }
-  
+  /* section1 */
+  .section_first {
+    height: 438px;
+    padding-inline: 67px;
+   
+}
 }
 
