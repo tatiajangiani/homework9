@@ -1,0 +1,15 @@
+@media (max-width: 1025px){
+    /* header */
+   .header{
+   padding: 6px 92px 11px 92px;
+   }
+
+}
+
+@media (max-width: 835px){
+    .header{
+        padding: 6px 67px;
+    }
+  
+}
+

@@ -1,0 +1,15 @@
+@media(max-width: 376px) {
+
+.header{
+   padding: 6px 14px ;
+   column-gap: 54px;
+}
+   nav{
+    display: none;
+   }
+    .burger_icon{
+        display: block;
+    }
+    
+     }
+    
